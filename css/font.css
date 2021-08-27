@@ -1,0 +1,25 @@
+@font-face{
+	font-family: GenBkBasBI;
+	src: url(../font/gentium-book-basic/GenBkBasBI.ttf);
+}
+@font-face{
+	font-family: YesevaOne;
+	src: url(../font/yeseva-one/YesevaOne-Regular.ttf);
+}
+@font-face{
+	font-family: Lato-Regular;
+	src: url(../font/Lato/Lato-Regular.ttf);
+}
+@font-face{
+	font-family: OpenSans-Regular;
+	src: url(../font/open-sans/OpenSans-Regular.ttf);
+}
+@font-face{
+	font-family: OpenSans-Bold;
+	src: url(../font/open-sans/OpenSans-Bold.ttf);
+}
+@font-face{
+	font-family: OpenSans-Italic;
+	src: url(../font/open-sans/OpenSans-Italic.ttf);
+}
+

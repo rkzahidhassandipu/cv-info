@@ -1,0 +1,113 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background: gray;
+}
+h2, h1, h3, h4, h5{
+	font-family: Roboto-Light;
+	display: inline;
+}
+a{
+	font-family:  Roboto-Thin;
+	font-weight: bold;
+}
+h2{
+	text-transform: uppercase;
+}
+h3, .title{
+	color: #0dcaf0;
+}
+.container, .footer{
+	width: 1000px;
+	height: auto;
+	margin: auto;
+	background: #366982;
+}
+.profile-image{
+	padding: 20px;
+}
+.profile-img{
+	width: 100px;
+	height: 100px;
+	border: 3px solid white;
+	border-radius: 50%;
+	float: left;
+}
+.name-info{
+	float: left;
+	padding: 0 0 0 40px;
+}
+.contect-info{
+	float: right;
+	padding-right: 40px;
+}
+.contect-info a{
+	text-decoration: none;
+	color: black;
+}
+.contect-info a:hover,
+ul li a:hover{
+	color: tomato;
+	transition: .3s;
+}
+.clear{
+	clear: both;
+}
+.border{
+	border: 1px solid black;
+	margin: 110px 0 0 0;
+
+}
+.content{
+	padding: 20px;
+}
+.left-info{
+	width: 30%;
+	float: left;
+}
+.right-detals{
+	width: 70%;
+	float: left;
+}
+p{
+	font-family: Roboto-Thin;
+	font-weight: bold;
+    line-height: 22px;
+}
+.spase{
+	margin: 60px 0 0 0;
+}
+b{
+	font-family: 'Open Sans', sans-serif;
+}
+.footer{
+	padding: 20px 0;
+	background-color: black;
+}
+ul{
+	text-align: center;
+}
+ul li{
+	list-style: none;
+	display: inline;
+	padding-left: 20px;
+}
+ul li a{
+	text-decoration: none;
+	font-family: Roboto-Regular;
+	font-weight: bold;
+	color: white;
+}
+.ftr-design{
+	padding: 20px 30px 0 30px;
+}
+.copy-rg-text{
+	color: white;
+	display: inline;
+
+}
+.right{
+	float: right;
+}
